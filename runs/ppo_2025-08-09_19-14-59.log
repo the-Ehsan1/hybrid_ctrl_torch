@@ -1,0 +1,11 @@
+iter 000 | mean_ep_return -13258.4852 | steps 2048
+iter 001 | mean_ep_return -15003.4399 | steps 4096
+iter 002 | mean_ep_return -12671.0314 | steps 6144
+iter 003 | mean_ep_return -14079.7335 | steps 8192
+iter 004 | mean_ep_return -9522.0005 | steps 10240
+iter 005 | mean_ep_return -12408.0491 | steps 12288
+iter 006 | mean_ep_return -13965.7943 | steps 14336
+iter 007 | mean_ep_return -11989.0486 | steps 16384
+iter 008 | mean_ep_return -17564.2799 | steps 18432
+iter 009 | mean_ep_return -15272.7879 | steps 20480
+TRAINING_BASELINE_DONE

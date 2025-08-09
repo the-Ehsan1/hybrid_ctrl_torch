@@ -1,0 +1,12 @@
+nohup: ignoring input
+iter 000 | mean_ep_return -13053.9735 | steps 2048
+iter 001 | mean_ep_return -9415.3952 | steps 4096
+iter 002 | mean_ep_return -15926.5981 | steps 6144
+iter 003 | mean_ep_return -9906.6698 | steps 8192
+iter 004 | mean_ep_return -11515.7560 | steps 10240
+iter 005 | mean_ep_return -11172.6507 | steps 12288
+iter 006 | mean_ep_return -15736.1316 | steps 14336
+iter 007 | mean_ep_return -10698.1366 | steps 16384
+iter 008 | mean_ep_return -15260.4229 | steps 18432
+iter 009 | mean_ep_return -12129.5774 | steps 20480
+TRAINING_BASELINE_DONE
