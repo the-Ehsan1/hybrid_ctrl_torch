@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/iluvatar/.venvs/rl_env/bin/python",
+  "python.terminal.activateEnvironment": true
+}
